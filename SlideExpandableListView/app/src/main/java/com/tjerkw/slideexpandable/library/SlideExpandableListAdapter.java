@@ -24,7 +24,7 @@ public class SlideExpandableListAdapter extends AbstractSlideExpandableListAdapt
 	}
 
 	public SlideExpandableListAdapter(ListAdapter wrapped) {
-		this(wrapped, R.id.expandable_toggle_button, R.id.expandable);
+		this(wrapped, R.id.text, R.id.expandable);
 	}
 
 	@Override
