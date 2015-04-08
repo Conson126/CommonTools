@@ -1,0 +1,5 @@
+1,git  clone github上的地址                <克隆仓库>
+2，你可能会向这个仓库添加东西
+3，git add .            <将改变的东西add上去>
+4，git commit -m "你的日志信息"  <增加修改日志>
+5，git push -u origin master    <推送到master分支>
