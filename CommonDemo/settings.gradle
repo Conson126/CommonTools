@@ -1,1 +1,2 @@
-include ':animation_library', ':androidAnimation', ':library', ':eventBusTest', 'diyToast', 'fragmentTest', 'guideView', ':horizontalListView'
+include ':Test', ':PhotoSelector'
+// include ':animation_library', ':library', ':ImageLoaderDemo', ':DiyToast', ':FragmentTest', ':GuideView', ':AndroidAnimation', ':DiyToast', ':EventBusTest', ':FragmentTest', ':GifviewDemo', ':GuideView', ':HorizontalListView', ':CheckOut', ':Test', 'JniExample', ':android-gif-drawable-1.1.3'

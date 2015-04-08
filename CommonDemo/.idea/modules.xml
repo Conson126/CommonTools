@@ -3,15 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CommonDemo.iml" filepath="$PROJECT_DIR$/CommonDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/androidAnimation/androidAnimation.iml" filepath="$PROJECT_DIR$/androidAnimation/androidAnimation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/animation_library/animation_library.iml" filepath="$PROJECT_DIR$/animation_library/animation_library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/diyToast/diyToast.iml" filepath="$PROJECT_DIR$/diyToast/diyToast.iml" />
-      <module fileurl="file://$PROJECT_DIR$/eventBusTest/eventBusTest.iml" filepath="$PROJECT_DIR$/eventBusTest/eventBusTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fragmentTest/fragmentTest.iml" filepath="$PROJECT_DIR$/fragmentTest/fragmentTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/guideView/guideView.iml" filepath="$PROJECT_DIR$/guideView/guideView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/horizontalListView/horizontalListView.iml" filepath="$PROJECT_DIR$/horizontalListView/horizontalListView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoSelector/PhotoSelector.iml" filepath="$PROJECT_DIR$/PhotoSelector/PhotoSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
     </modules>
   </component>
 </project>
-

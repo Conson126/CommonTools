@@ -14,11 +14,17 @@ import android.widget.Toast;
 
 public class MainActivity extends ActionBarActivity {
 
+//    static {
+//        System.loadLibrary("JniTest");
+//    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+//    public native String getStringFromJni();
 
     public void click(View cv) {
         LayoutInflater inflater = getLayoutInflater();
@@ -33,9 +39,8 @@ public class MainActivity extends ActionBarActivity {
         toast.setDuration(Toast.LENGTH_LONG);
         toast.setView(layout);
         toast.show();
-        Toast.makeText(this, "test", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "test" , Toast.LENGTH_SHORT).show();
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

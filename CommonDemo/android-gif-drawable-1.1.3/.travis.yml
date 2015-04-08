@@ -1,0 +1,23 @@
+#branches:
+#  except:
+#    - dev
+sudo: false
+language:
+  - android
+jdk:
+  - oraclejdk8
+android:
+  components:
+    - build-tools-22.0.1
+    - android-22
+    - extra-android-m2repository
+
+before_install:
+  - wget http://dl.google.com/android/ndk/android-ndk-r10d-linux-x86_64.bin
+  - chmod +x android-ndk-r10d-linux-x86_64.bin
+  - ./android-ndk-r10d-linux-x86_64.bin | egrep -v ^Extracting
+  - export ANDROID_NDK_HOME=`pwd`/android-ndk-r10d
+  - export PATH=${PATH}:${ANDROID_NDK_HOME}
+
+script:
+  - ./gradlew build --info

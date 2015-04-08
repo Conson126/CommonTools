@@ -1,0 +1,5 @@
+F:\MyProject\GuideView\app\build\intermediates\classes\debug
+F:\MyProject\GuideView\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6c4e91ec90ea667bf2e002bff1fa703cc82b8c84.jar
+F:\MyProject\GuideView\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3491721234fa78f7a061bea446eef575bfc5ded8.jar
+F:\MyProject\GuideView\app\build\intermediates\pre-dexed\debug\classes-a21acd5885b92ec7ce05a0c07ab7331beb700954.jar
+F:\MyProject\GuideView\app\build\intermediates\pre-dexed\debug\classes-84249462030d0746f6783582c3258fb645a13f8e.jar
